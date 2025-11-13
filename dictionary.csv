@@ -1,0 +1,50 @@
+Cabeçalho,Explicação,Pergunta,Opções de resposta
+ID,Identificação da resposta,,
+Genero,Gênero,Com qual gênero você se identifica?,Masculino  
+,,,Feminino  
+,,,Não binário  
+,,,Outro (especifique)
+,,,Desejo não responder 
+renda_individual,Renda Individual,Qual é a sua RENDA INDIVIDUAL mensal? Em dólares,Até 150 dólares
+,,,Entre 150 e 300 dólares
+,,,Entre 300 e 600 dólares
+,,,Entre 600 e 900 dólares
+,,,Entre 900 e 1200 dólares
+,,,Entre 1200 e 1500 dólares
+,,,Entre 1500 e 1800 dólares
+,,,Entre 2100 e 2400 dólares
+,,,Mais do que 2700 dólares
+Idade,Idade,Qual a sua idade?,Opções de idade
+Cidade_é_buenos_aires,É morador de Buenos Aires?,Em que cidade você vive?,Buenos Aires = 1; Outras = 0
+Filhos,Filhos,Você possui filhos?  ,Não possuo filhos
+,,,1 filho
+,,,2 filhos
+,,,3 filhos
+,,,4 filhos
+,,,5 filhos ou mais
+Aversao1,Traço de Personalidade: Aversão a Risco,"Sobre consumo de produtos e serviços no geral, você diria que (avalie em uma escala que varia entre 1 e 7 onde 1 significa “discordo totalmente” e 7 “concordo totalmente”)",Prefiro comprar/contratar marcas que eu já conheço do que experimentar marcas novas
+Aversao2,,,Sempre compro/contrato algo que conheço pois assim garanto que não vou errar
+Aversao3,,,Compro/contrato apenas marcas bem estabelecidas
+Aversao4,,,Sou muito cauteloso ao experimentar produtos novos ou diferentes
+Confianca1,Atributo de Marca: Confiança,"Pensando no Buenos Drivers, por favor responda de acordo com a sua opinião (gostaríamos que você indicasse o grau em que concorda com cada frase abaixo em uma escala que varia entre 1 e 7 onde 1 significa “discordo totalmente” e 7 “concordo totalmente”).",O app cumpre o que promete
+Confianca2,,,Os motoristas do app são confiáveis
+Confianca3,,,O app tem um nome em que se pode confiar
+Confianca4,,,O app não finge ser algo que não é
+Confianca5,,,O app oferece carros com um nível de qualidade constante
+Confianca6,,,O app ajuda a resolver qualquer problema que se possa ter com as viagens
+Confianca7,,,O app está interessado na satisfação dos clientes
+Confianca8,,,O app valoriza os clientes
+Confianca9,,,O app é um app confiável
+Segurança1,Atributo de Marca: Segurança,"Pensando na segurança do app no geral, você diria que ela é:","Bom vs ruim (sendo 1, totalmente ruim; 7 totalmente bom)"
+Segurança2,,,Consistente
+Segurança3,,,"Forte vs fraca (sendo 1, totalmente forte; 7 totalmente fraco)"
+Intenção1,Intenção de Usar Buenos Drivers,"Pensando no Buenos Drivers, por favor responda (gostaríamos que você indicasse o grau em que concorda com cada frase abaixo em uma escala que varia entre 1 e 7 onde 1 significa “discordo totalmente” e 7 “concordo totalmente”):",Eu gostaria de viajar usando o app
+Intenção2,,,O app é um bom jeito de se locomover pela cidade
+Intenção3,,,Eu pretendo usar o app nos próximos 7 dias
+Comunicação1,Recall Comunicação,"Pensando no Buenos Drivers, por favor responda (gostaríamos que você indicasse o grau em que concorda com cada frase abaixo em uma escala que varia entre 1 e 7 onde 1 significa “discordo totalmente” e 7 “concordo totalmente”):",Vejo muitas propagandas do app
+Comunicação2,,,Vejo muitas propagandas do app na TV
+Comunicação3,,,Leio muitas notícias sobre o app nos principais jornais do país
+Comunicação4,,,Com frequência vejo o app nas minhas redes sociais
+Comunicação5,,,Interajo bastante com o app nas minhas redes sociais
+Comunicação6,,,Meus amigos me recomendam o app com frequência
+Comunicação7,,,Pessoas que sigo nas redes sociais recomendam o app
